@@ -7,6 +7,10 @@
 
 This repository contains a standalone notepad application that prioritizes user privacy and data security.It provides a platform for users to create and store notes with end-to-end encryption, ensuring that only the user can access their data. The application maintains a record of past notes for easy reference and management.
 
+**Image Preview**
+![alt text](/images/note.png) ![alt text](</images/note 2.png>)
+
+
 **Technology Stack**
 --------------------
 
